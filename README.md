@@ -9,3 +9,8 @@ Examen parcial2 de bioinformática
 - Nombre del Dispositivo: MAQUINA-PC
 - RAM instalado: 3,00 GB
 - Tipo de sistema: Sistema Operativo de 64 bits
+## Programas Utilizados
+- GitBash
+- Github
+- Jupyter
+- Python/Anaconda

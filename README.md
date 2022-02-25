@@ -16,6 +16,6 @@ Examen parcial2 de bioinformática
 - Python/Anaconda
 ## Explicación de la data utilizada
 - Se realizaron los siguientes ejercicios a partir de la utilizacion
-  de la data colocada en un directorio en el cual se utilizo jupyter
-  y git bash para realizar los ejercicios dados y poder colocar en este
-  repositorio.
+  del archivo miningscience.py con las funciones download_pubmed y
+  mining_pubs correspondientes en el ejercicio 1 pero en el ejercicio 3,
+  el archivo pubmed-EcuadorGen-set.txt descargado en el ejercicio 2.
